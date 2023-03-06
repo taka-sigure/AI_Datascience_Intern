@@ -1,6 +1,6 @@
 # AI_Datascience_Internship
 AI・データサイエンスインターン（Dodaキャンパス事務局）で用いたコードやプレゼン資料の置き場
-
+<br>
 ## コードの説明
 ### presentation_content
 最終発表時に使用したコンテンツ類。
